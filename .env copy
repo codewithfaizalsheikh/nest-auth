@@ -1,0 +1,5 @@
+DB_URI = mongodb://localhost:27017/SaasKit-nestjs
+JWT_SECRET = 
+JWT_EXPIRES = 
+EMAIL_USER = 
+EMAIL_PASS = 
